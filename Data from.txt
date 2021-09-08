@@ -1,4 +1,4 @@
-                                           THIS FILE CONTAINS THE SOURCE OF DATA
+                                             THIS FILE CONTAINS THE SOURCE OF DATASET
 1.Proxy House Prices from https://fred.stlouisfed.org/series/CSUSHPISA
 2.Constant GDP per capita from https://data.worldbank.org/indicator/NY.GDP.PCAP.KD?end=2020&locations=US&start=2000
 3.Historical Mortage Rate trends from https://www.bankrate.com/mortgages/historical-mortgage-rates/
