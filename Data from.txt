@@ -9,3 +9,4 @@
 8.Homless by natural disaster from https://data.humdata.org/dataset/number-of-people-made-homeless-by-natural-disasters
 9.Green Card Issued(Permanent Resident) from https://www.dhs.gov/immigration-statistics/yearbook/2019/table1
 10.Crime Rate from https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-1
+11.Number of Houses sold from https://www.statista.com/statistics/185213/us-house-sales-for-cash-since-2000/
